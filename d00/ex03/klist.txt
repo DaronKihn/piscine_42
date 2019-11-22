@@ -1,0 +1,5 @@
+Credentials cache: API:C575FFB0-3700-41E3-9D39-FEC580254AA2
+        Principal: dkihn@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 17 17:51:18 2018  Sep 18 17:51:18 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
